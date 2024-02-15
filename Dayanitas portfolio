@@ -38,6 +38,9 @@
     <header>
         <h1>My Portfolio</h1>
     </header>
+<center>
+<img>C:\Users\dayan\OneDrive\Documents\Pictures\HS23537606.jpg</img>
+</center>
     <div class="container">
         <div class="section">
             <h2>About Me</h2>
@@ -54,10 +57,10 @@
         </div>
         <div class="section">
             <h2>Work Experience</h2>
-            <p>Position: [Your Position]</p>
-            <p>Company: [Company Name]</p>
-            <p>Duration: [Duration]</p>
-            <p>Description: [Description]</p>
+            <p>Position: Research assistant</p>
+            <p>Company: Melsta labs</p>
+            <p>Duration: 1 year</p>
+            <p>Description: worked on resaerch project researching new drugs for  diabetes</p>
         </div>
         <!-- Add more sections for projects, skills, etc. -->
     </div>
