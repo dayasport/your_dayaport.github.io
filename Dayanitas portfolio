@@ -28,9 +28,16 @@
         .section h2 {
             border-bottom: 1px solid #333;
             padding-bottom: 5px;
+            color: red; /* Changed color to red */
         }
         .section p {
             margin-top: 5px;
+        }
+        .profile-image {
+            display: block;
+            margin: 0 auto;
+            max-width: 200px;
+            border-radius: 50%;
         }
     </style>
 </head>
@@ -49,7 +56,7 @@
             <p>Name: Dayanita Goonewardane</p>
             <p>Email: dayanitagoon@gmail.com</p>
             <p>Phone: 0714541579</p>
-            <p>Bio: [Your Bio]</p>
+            <p>Skills:Good communication skills and Willing to work and learn new things </p>
         </div>
         <div class="section">
             <h2>Education : studied at st. Bridgets convent</h2>
